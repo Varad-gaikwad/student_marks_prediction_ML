@@ -78,7 +78,8 @@ X_norm = (X - μ) / σ
 
 # Dataset
 
-![image.png](attachment:18307ff5-3f22-4589-b94e-46ae816b7598:image.png)
+<img width="646" height="288" alt="Dataset" src="https://github.com/user-attachments/assets/ad42f0c5-278a-4fa3-86dd-6d9d79903904" />
+
 
 ---
 
@@ -159,15 +160,15 @@ The project generates:
 
 - Cost vs Iterations graph
 
-![image.png](attachment:fe6d1f12-4ed2-4e1f-969c-e34f90f23a5f:image.png)
+<img width="1011" height="596" alt="GRAPH1" src="https://github.com/user-attachments/assets/02c89582-b3b7-4403-a4d2-375551d707d8" />
 
 - Feature distributions before normalization and after normalizaiton
 
-![image.png](attachment:a38c33e2-19c1-4bf0-8265-6a77629a51e5:image.png)
+<img width="1428" height="346" alt="GRAPH2" src="https://github.com/user-attachments/assets/6694b0b9-4c6e-471c-bcc0-a1838b96b4c9" />
 
 - Prediction vs Target plots
 
-![image.png](attachment:9452d578-3e83-4b9c-8807-d7dee724919d:image.png)
+<img width="1300" height="406" alt="GRAPH3" src="https://github.com/user-attachments/assets/6068cd35-203e-4b66-bfa8-b89f27d8c110" />
 
 These graphs help analyze:
 - convergence
@@ -178,7 +179,7 @@ These graphs help analyze:
 
 # Sample Output
 
-![image.png](attachment:dae6b2b1-4ab2-44d8-929a-05d00fbc8eef:image.png)
+<img width="1300" height="206" alt="Output" src="https://github.com/user-attachments/assets/37d91832-3b30-45d2-93a0-317c6b3d09e5" />
 
 Actual Target value: 40
 
